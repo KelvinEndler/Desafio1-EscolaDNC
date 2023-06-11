@@ -6,7 +6,7 @@ Link da planilha de registro de informação: https://docs.google.com/spreadshee
 
 # Descrição do Projeto
 
-Com o proposito de avaliar as habilidades de um possível novo desenvolvedor, uma empresa de tecnologia propôs um desafio. Criar uma landing page como portfólio para uma empresa de arquitetura com a finalidade de prospectar dados de possíveis novos clientes.
+Com o proposito de avaliar as habilidades de um possível novo desenvolvedor, uma empresa de tecnologia propôs um desafio: criar uma landing page como portfólio para uma empresa de arquitetura com a finalidade de prospectar dados de possíveis novos clientes.
 
 Neste projeto, a partir de conhecimentos das linguagens HTML e CSS, foi criado uma Landig Page de acordo com o protótipo pré-estabelecido no Figma. Contando com conteúdos descritivos, menus e um formulário.
 
