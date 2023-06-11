@@ -1,10 +1,10 @@
-# Desafio1-EscolaDNC
+# Desafio 1 - Escola DNC
 
 Link do site disponibilizado: https://musical-kulfi-296bc5.netlify.app/
 
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1wfhyWgrlE3h-YZC2vG34IBk6mcB6WhIpxutZ94paYTE/edit#gid=0
 
-# descrição do projeto
+# Descrição do Projeto
 
 Com o proposito de avaliar as habilidades de um possível novo desenvolvedor, uma empresa de tecnologia propôs um desafio. Criar uma landing page como portfólio para uma empresa de arquitetura com a finalidade de prospectar dados de possíveis novos clientes.
 
